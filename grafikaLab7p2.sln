@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grafikaLab7p2", "grafikaLab7p2\grafikaLab7p2.csproj", "{87EE2D36-39BD-4B7D-892E-19FCE6BD3245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87EE2D36-39BD-4B7D-892E-19FCE6BD3245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EE2D36-39BD-4B7D-892E-19FCE6BD3245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EE2D36-39BD-4B7D-892E-19FCE6BD3245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EE2D36-39BD-4B7D-892E-19FCE6BD3245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {270E96C0-833C-4EC7-A9A9-838D10957D94}
+	EndGlobalSection
+EndGlobal
